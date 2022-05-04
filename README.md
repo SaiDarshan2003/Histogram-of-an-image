@@ -20,8 +20,6 @@ Using matplotlib.pyplot plot the histogram.
 ```
 # Developed By: Sai Darshan G
 # Register Number:212221240047
-import cv2
-import matplotlib.pyplot as plt
 # Write your code to find the histogram of gray scale image and color image channels. Display the histogram of gray scale image and any one channel histogram from color image.
 import cv2
 import matplotlib.pyplot as plt
